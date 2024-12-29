@@ -40,7 +40,7 @@ Write-Host "";
 Write-Host "";
 Write-Host -ForegroundColor Blue "SunV - PC Checking Software";
 Write-Host "";
-Write-Host -ForegroundColor Blue "   Made By Emma for SunV - " -NoNewLine
+Write-Host -ForegroundColor Blue "   Made By CuzimStupi4 for SunV - " -NoNewLine
 Write-Host -ForegroundColor Red "discord.gg/sunv";
 Write-Host "";
 
